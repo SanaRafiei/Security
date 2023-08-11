@@ -1,0 +1,50 @@
+/*body{
+    background-image: url(../images/DSC_0832-Edit-scaled-e1631923632861.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.div1{
+    background-color: #999;
+    position: absolute;
+    top: 2%;
+    right:0% ;
+    width: 42%;
+    height: 41.21pc;
+    animation-name: po;
+    animation-duration: 2.5s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+@keyframes po {
+    0%{
+        right: -60%;
+    }
+    100%{
+        right: 0%;
+    }
+}*/
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }
+    .signlink{
+        text-decoration: none;
+        color: black;
+    }
+    .imggg{
+        margin-left: -6%;
+    }
+    .didi{
+        overflow: hidden;
+    }
+    @media only screen and (max-width:600px){
+        .imggg{
+            opacity: 0;
+        }
+    }

@@ -1,0 +1,133 @@
+/* body{
+  background-color: #6e6e72;
+} 
+form{
+  width: 360px;
+  height: 360px;
+  border-radius: 20px;
+  background-image: url(../images/pngwing.com.png);
+  margin: 15% auto;
+}
+ p{
+    color: white;
+    margin-top: 20px;
+  }
+ input {
+    border: none;
+    outline: none;
+    background: none;
+  }
+  h1{
+    margin-left: 100px;
+    padding: 30px;
+    color:rgb(213, 212, 215) ;
+  }
+  .div-input{
+    background-color: rgb(189, 188, 188);
+    border-radius: 10px;
+    padding:8px;
+    width: 200px;
+    margin: 20px auto;
+  }
+  svg{
+    color: #424242;
+    margin-right: 5px;
+  }
+  ::placeholder{
+    color:#5b5b5f;
+  }
+  button{
+    background-color: rgb(173, 172, 175);
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    margin: 8% 36%;
+  }
+  .aa{
+    text-decoration: none;
+    color: rgb(209, 207, 209);
+    margin-left: 25%;
+    transition: 1s;
+  }
+  .aa:hover{
+    font-size: larger;
+  }
+  #div-a{
+   margin-top: 110px;
+   margin-left: 85px;
+  }
+  #div-a a{
+    text-decoration: none;
+  }
+@media only screen and (max-width:600px) {
+  form{
+    left: 20px;
+  }
+} */
+
+body{
+  background-image: url(../images/2-Walking-Away-Guns-e1664829280881.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+form{
+  border-radius: 20px;
+  box-shadow: rgba(203, 201, 201, 0.653) 0px 54px 55px, rgba(165, 163, 163, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;background-color:rgba(95, 91, 91, 0.7) ;
+  width: 350px;
+  height: 375px;
+  margin: 8% 35%;
+  transition: 1s;
+}
+form:hover{
+  scale: 1.10;
+}
+.hr0{
+  width: 150px;
+  margin-top: 15%;
+}
+h1{
+  position: relative;
+  top: 10%;
+  left: 40%;
+  color: rgb(195, 191, 191);
+}
+input{
+  outline: none;
+  border: none;
+  background-color: rgba(189, 184, 184, 0.7);
+  border-radius: 20px;
+  margin-top: 5%;
+  margin-left: 13%;
+  padding: 10px;
+  width: 250px;
+}
+.in1{
+  margin-top: 10%;
+}
+::placeholder{
+  color: black;
+}
+.bu{
+  background-color: rgba(189, 188, 188, 0.7);
+  padding: 10px;
+  width: 100px;
+  border-radius: 30px;
+  border: none;
+  margin: 10% 36%;
+}
+.a1{
+  text-decoration: none;
+  color: rgb(195, 191, 191);
+  margin-left: 17%;
+}
+@media only screen and (max-width:600px) {
+  form{
+    margin-left: 12%;
+    margin-top: 10%;
+  }
+  body{
+    background-color: #999;
+    background-image: none;
+  }
+}
